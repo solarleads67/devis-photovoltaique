@@ -77,7 +77,7 @@
         toiture: document.getElementById("toiture").value
       };
 
-      fetch("https://script.google.com/macros/s/TON_URL_SCRIPT/exec", {
+      fetch(https://script.google.com/macros/s/AKfycbx4RUSF30OfcJKzYPULN0YoWtjRILbc67hVcG4Rlfu44N5IatZWj5I39bjFHMwacroA0w/exec)://script.google.com/macros/s/TON_URL_SCRIPT/exec", {
         method: "POST",
         body: JSON.stringify(data)
       })
